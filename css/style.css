@@ -1,0 +1,58 @@
+.navbar-nav
+{
+    font-size: 1.3rem ;
+    font-weight: 400;
+}
+
+header
+{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(0 , 0 , 0 , 0.7 ) ,rgba(0 , 0 , 0 , 0.7 )) , url(../images/header.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+nav
+{
+    background-color: rgba(0, 0, 0, 0.438);
+    opacity: 0.9;
+}
+
+.sec
+
+{
+    background-color:#000000bd;
+}
+.subscribe
+{
+    background-image:  linear-gradient(rgba(0 , 0 , 0 , 0.7 ) ,rgba(0 , 0 , 0 , 0.7 )),  url(../images/7.jpg);
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+
+
+.card1:hover
+{
+    background-color:rgb(55, 55, 61);
+    color: white;
+}
+
+
+.para
+{
+    line-height: 2;
+}
+
+.hh1
+{
+    width: 479px;
+    text-align: center;
+    margin-left: 300px;
+}
+
+.po
+{
+    line-height: 3;
+    padding-top: 5px;
+}
